@@ -1,0 +1,180 @@
+.header{
+	width: 1400px; 
+	height: 700px;
+	background-image: url(../img/head_foto.jpg);
+	color: white;
+	
+}
+
+.logo{
+	margin-left: 230px;
+	margin-top: 40px;
+	margin-right: 177px;
+	max-width: 145px;
+	font-size: 26px;
+	float: left;
+	color: #FFD52F;
+	font-family: 'Dancing Script', cursive;
+	
+	
+}
+
+.menu{
+	max-width: 485px;
+	max-height: 15px;
+	display: flex;
+}
+
+.main-menu{
+	list-style-type: none;
+	display: flex;
+	float: right;
+	justify-content: space-around;
+	width: 485px;
+	max-height: 15px;
+	margin-top: 40px;
+	margin-right: 230px;
+	font-size: 14px;
+	
+	
+}
+
+	
+
+.menu-item:hover{
+	opacity: 0.5;
+	
+}
+.greeting{
+	text-align: center;
+	padding-top: 240px;
+	font-size: 40px;
+	font-family: 'Dancing Script', cursive;
+	
+	
+}
+
+.second_greeting{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 85px;
+	font-family: 'Poor Story', cursive;
+	
+}
+.press{
+	width: 100%;
+	text-align: center;
+	
+	
+}
+.button{
+	margin-top: 60px;
+	width: 238px;
+	height: 65px;
+	font-size: 25px;
+	background-color: #FFD213;
+	border: none;
+	border-radius: 3px;
+	color: white;
+	font-weight: 100;
+	font-family: 'Poor Story', cursive;
+	
+	
+}
+
+
+	
+	
+	
+
+.services{
+	height:568px;
+    width:1400px; 
+	
+	
+	
+}
+.title-services{
+	padding-top: 60px;
+	text-align: center;
+	font-size: 40px;
+	position: static;
+	margin-bottom: 10px;
+	font-family: 'Poor Story', cursive;
+}
+
+.subtitle{
+	margin-top: 10px;
+	font-size: 16px ;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
+
+.our_services{
+	margin-top: 79px;
+	display:flex;
+	justify-content:space-around;
+}
+
+.servic_foto{
+	text-align: center;
+}
+.img_services{
+	width: 73px;
+	height: 73px;
+	text-align: center;
+}
+
+.name_services{
+	font-size: 18px;
+	font-family: 'Poor Story', cursive;
+	text-align: center;
+	
+}
+
+.text_services{
+	font-size: 14px;
+	font-family: 'Poor Story', cursive;
+}
+
+.portfolio{
+	height:1218px;
+	width: 1400px;
+	background:#F7F7F7;
+	
+}
+
+.portfolio_foto{
+	margin-top:80px;
+	margin-left: 230px;
+	width: 950px;
+	height: 840px;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.images_portfolio{
+	width:290px;
+	height:300px;
+	
+}
+
+.portfolio_class{
+	background: white;
+	height: 392px;
+	
+}
+
+.portfolio_title{
+	text-align: center;
+	font-size: 18px ;
+	font-family: 'Poor Story', cursive;
+	
+}
+
+.portfolio_subtitle{
+	text-align: center;
+	font-size:14px ;
+	font-family: 'Dancing Script', cursive;
+}
